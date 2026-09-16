@@ -1,0 +1,3 @@
+# Alpine Star brief
+
+Static Next.js/React concept-validation landing page, built in WSL and isolated to this directory. Cinematic alpine photography; inspiring and reassuring voice. Planned features: satellite weather, prep checklists, offline maps, live risk assessment, oxygen and conditions. Phone-shaped route-map concept. Placeholder waitlist only. No reviews or invented testimonials. Higgsfield imagery. Pipeline step 5 skipped; step 6 awaits feedback.

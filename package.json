@@ -1,0 +1,23 @@
+{
+  "name": "alpine-star",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack --hostname 0.0.0.0 --port 3010",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0 --port 3010"
+  },
+  "dependencies": {
+    "@fontsource/manrope": "^5.2.5",
+    "lucide-react": "^0.468.0",
+    "next": "^16.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.8.0"
+  }
+}
